@@ -1,0 +1,2 @@
+In this lab I've learned how to make an app that sends data from one activity to another with the shared preferences and how to do it properly. Every exercice required knowledge from previous labs and something new
+about this particular lesson. During this laboratory I had no problem.

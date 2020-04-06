@@ -1,0 +1,1 @@
+This is a small prototype of hotel reservation app with account and password with some features like updating and deleting reservations and deleting users. The video is self explanatory.

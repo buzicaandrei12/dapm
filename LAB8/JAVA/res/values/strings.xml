@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RIL HOTEL</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">Log in</string>
+    <string name="not_registered">Not Registered ?</string>
+    <string name="register">Register</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="button_register">Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="vezi_userii">Vezi userii</string>
+    <string name="rezerva_o_camera_la_ril_hotel">Rezerva o camera la RIL Hotel!</string>
+    <string name="sterge_userii">Sterge Userii</string>
+</resources>
